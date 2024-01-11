@@ -7,9 +7,9 @@
 
 2.- [¿Qué es Ansible?](/Contenidos/Ansible.md) 
 
-3.- [Características de Ansible](caracteristicas.md)
+3.- [Características de Ansible](/Contenidos/caracteristicas.md)
 
-4.- [Los competidores](competidores.md)
+4.- [Los competidores](/Contenidos/competidores.md)
 
 5.- [Arquitectura y componentes.](/Contenidos/Arquitectura.md) 
 
