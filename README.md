@@ -1,5 +1,7 @@
 # Aprovisionamiento de infraestructura con Ansible
-Índice
+![image](/img/key-features-and-specific-roles-of-Ansible.png)
+
+## Índice
 
 1.- Introducción 
 
@@ -11,4 +13,6 @@
 
 5.- Arquitectura y componentes. 
 
-.- Referencias
+## .- Referencias
+
+![image](/img/licencia.png)
