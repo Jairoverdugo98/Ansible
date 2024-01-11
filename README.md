@@ -3,15 +3,15 @@
 
 ## Índice
 
-[1.- Introducción](/Contenidos/Introduccion.md) 
+1.- [Introducción](/Contenidos/Introduccion.md) 
 
-[2.- ¿Qué es Ansible?](/Contenidos/Ansible.md) 
+2.- [¿Qué es Ansible?](/Contenidos/Ansible.md) 
 
 3.- [Características de Ansible](caracteristicas.md)
 
 4.- [Los competidores](competidores.md)
 
-[5.- Arquitectura y componentes.](/Contenidos/Arquitectura.md) 
+5.- [Arquitectura y componentes.](/Contenidos/Arquitectura.md) 
 
 ## Autores
 
