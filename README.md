@@ -7,9 +7,9 @@
 
 2.- ¿Qué es Ansible? 
 
-3.- Características de Ansible 
+3.- [Características de Ansible](caracteristicas.md)
 
-4.- Los competidores. 
+4.- Los competidores.
 
 5.- Arquitectura y componentes. 
 
